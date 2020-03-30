@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/samgsite/static/js/main.63ec5562.chunk.js",
+    "main.js.map": "/samgsite/static/js/main.63ec5562.chunk.js.map",
+    "runtime-main.js": "/samgsite/static/js/runtime-main.d55b28fc.js",
+    "runtime-main.js.map": "/samgsite/static/js/runtime-main.d55b28fc.js.map",
+    "static/css/2.de424728.chunk.css": "/samgsite/static/css/2.de424728.chunk.css",
+    "static/js/2.0930b21c.chunk.js": "/samgsite/static/js/2.0930b21c.chunk.js",
+    "static/js/2.0930b21c.chunk.js.map": "/samgsite/static/js/2.0930b21c.chunk.js.map",
+    "index.html": "/samgsite/index.html",
+    "precache-manifest.bb87cf0991ebba828468e1384a536197.js": "/samgsite/precache-manifest.bb87cf0991ebba828468e1384a536197.js",
+    "service-worker.js": "/samgsite/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/samgsite/static/css/2.de424728.chunk.css.map",
+    "static/js/2.0930b21c.chunk.js.LICENSE.txt": "/samgsite/static/js/2.0930b21c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d55b28fc.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.0930b21c.chunk.js",
+    "static/js/main.63ec5562.chunk.js"
+  ]
+}
